@@ -1,22 +1,25 @@
 {
-    "users": [{
-            "id": 1,
-            "authorized": false,
-            "userName": "Giulio",
-            "email": "giulio.gherardi@daliaresearch.com",
-            "phone": "+49 5554433",
-            "isEmailVerified": true,
-            "isPhoneVerified": false
-        },
-        {
-            "id": 2,
-            "authorized": false,
-            "userName": "suman",
-            "email": "suman.kunwar@daliaresearch.com",
-            "phone": "+49 15251845686",
-            "isEmailVerified": true,
-            "isPhoneVerified": false
-        }
-    ],
-    "surveys": []
+  "users": [
+    {  
+      "id": 1,
+      "uuid": "1",
+      "email": "giulio.gherardi@daliaresearch.com",
+      "email_verified": true,
+      "phone_number": "+49 5550000"
+     
+    },
+    {
+      "id": 2,
+      "uuid": "2",
+      "email": "suman.kunwar@daliaresearch.com",
+      "phone_number": "+49 15251845686",
+      "email_verified": true,
+      "phone_number_verified": false
+    }
+  ],
+  "surveys": [
+    {
+      "link": "https://surveyLink.com"
+    }
+  ]
 }
