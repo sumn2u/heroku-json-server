@@ -2,9 +2,9 @@
   "name": "heroku-json-server",
   "version": "1.0.0",
   "description": "json server for heroku",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "./node_modules/.bin/json-server --watch api/app.json --port 80",
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
