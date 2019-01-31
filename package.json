@@ -1,0 +1,28 @@
+{
+  "name": "heroku-json-server",
+  "version": "1.0.0",
+  "description": "json server for heroku",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/json-server --watch api/app.json --port 4000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumn2u/heroku-json-server.git"
+  },
+  "keywords": [
+    "json-server",
+    "heroku",
+    "node"
+  ],
+  "author": "suman kunwar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumn2u/heroku-json-server/issues"
+  },
+  "homepage": "https://github.com/sumn2u/heroku-json-server#readme",
+  "devDependencies": {
+    "json-server": "^0.14.2"
+  }
+}
