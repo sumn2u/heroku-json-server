@@ -4,7 +4,7 @@
   "description": "json server for heroku",
   "main": "server.js",
   "scripts": {
-    "start": "./node_modules/.bin/json-server --watch app.json --routes routes.json",
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
