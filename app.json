@@ -11,30 +11,26 @@
             "id": 2,
             "uuid": "2",
             "email": "suman.kunwar@daliaresearch.com",
-            "phone_number": "+49 152456t678686",
+            "phone_number": "+49 1521300258686",
             "email_verified": true,
             "phone_number_verified": false
         }
     ],
+
     "surveys": [
         {
             "link": "https://surveyLink.com"
         }
     ],
+
     "points": [
         {
             "id": 1,
-            "pending": 200,
-            "approved": 750
+            "pending": 600,
+            "approved": 500
         }
     ],
     "rewards": [
-        {
-            "reward_type": "amazon",
-            "reward_amount": 1500,
-            "reward_title": "Amazon card 15$",
-            "status": "approved"
-        },
         {
             "reward_type": "amazon",
             "reward_amount": 500,
@@ -46,6 +42,12 @@
             "reward_amount": 1000,
             "reward_title": "Amazon card 10$",
             "status": "pending"
+        },
+        {
+            "reward_type": "amazon",
+            "reward_amount": 1500,
+            "reward_title": "Amazon card 15$",
+            "status": "approved"
         }
     ]
 }
