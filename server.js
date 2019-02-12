@@ -7,7 +7,8 @@ server.use(jsonServer.rewriter({
     "/me/points": "/points/1",
     "/me/rewards": "/rewards",
     "/rewards_options": "/rewards",
-     "/rewardsa": "/reedems"
+     "/rewardsa": "/reedems",
+    "/survey":"/surveys/1"
 }))
 const router = jsonServer.router('app.json');
 const middlewares = jsonServer.defaults();
