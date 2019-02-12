@@ -53,12 +53,10 @@
             "status": "approved"
         }
     ],
-"reedems":[{
+"reedems":[],
+"rewardsa": [
+   {
     "reward_option_uuid":102
-}],
-    "rewardsa": [
-       {
-    "reward_option_uuid":102
-}
-    ]
+   }
+ ]
 }
