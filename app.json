@@ -20,7 +20,7 @@
     "surveys": [
         {
             "id": 1,
-            "link": "https://surveyLink.com"
+            "link": "https://surveyinterface-v2.opinionsample.com/#/surveys/23fc7730-e5c1-0136-9b0c-0257e0edb0cc/screens/e110984e-abd0-4ac0-856a-a4d54a2c4649?publisher_user_id=07bfe320-86d2-0131-c9aa-0a424708edaa&panel_user_id=PANEL_USER_TEST_8bca8d40-02b1-0137-cdf2-02a871a4e0b4&panel_user_id_kind=PANEL_USER_KIND_TEST&pparam_offer_click_id=OFFER_CLICK_TEST_8bca8d40-02b1-0137-cdf2-02a871a4e0b4&pparam_provider_user_id=%5Bprovider_user_uuid%5D&is_test=true&brand=speak_up&autocomplete=true&survey_id=23fc7730-e5c1-0136-9b0c-0257e0edb0cc&screen_id=e110984e-abd0-4ac0-856a-a4d54a2c4649"
         }
     ],
     "points": [
