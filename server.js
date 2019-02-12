@@ -5,9 +5,8 @@ server.use(jsonServer.rewriter({
     "/api/*": "/$1",
     "/me": "/users/1",
     "/me/points": "/points/1",
-    "/me/rewards": "/rewards",
+    "/me/rewards": "/reedems",
     "/rewards_options": "/rewards",
-     "/rewardsa": "/reedems",
     "/survey":"/surveys/1"
 }))
 const router = jsonServer.router('app.json');
