@@ -53,7 +53,9 @@
             "status": "approved"
         }
     ],
-"reedems":[],
+"reedems":[{
+    "reward_option_uuid":102
+}],
     "rewardsa": [
        
     ]
