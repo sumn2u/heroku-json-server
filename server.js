@@ -1,4 +1,4 @@
-const jsonServer = require('json-server');
+const jsonServer = require('hai-server').haijsServer;
 const server = jsonServer.create();
 // Add this before server.use(router)
 server.use(jsonServer.rewriter({
