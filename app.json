@@ -19,35 +19,158 @@
 
     "surveys": [
         {
+            "id": 1,
             "link": "https://surveyLink.com"
         }
     ],
-
     "points": [
         {
             "id": 1,
-            "pending": 600,
-            "approved": 500
+            "pending": 200,
+            "approved": 1000
         }
     ],
     "rewards": [
         {
+            "uuid": 101,
             "reward_type": "amazon",
             "reward_amount": 500,
             "reward_title": "Amazon card 5$",
             "status": "pending"
         },
         {
+            "uuid": 102,
             "reward_type": "amazon",
             "reward_amount": 1000,
             "reward_title": "Amazon card 10$",
             "status": "pending"
         },
         {
+            "uuid": 103,
             "reward_type": "amazon",
             "reward_amount": 1500,
             "reward_title": "Amazon card 15$",
             "status": "approved"
+        }
+    ],
+    "rewardsa": [
+        {
+            "reward_option_uuid": 101,
+            "id": 1
+        },
+        {
+            "reward_option_uuid": 101,
+            "id": 2
+        },
+        {
+            "reward_option_uuid": 101,
+            "id": 3
+        },
+        {
+            "reward_option_uuid": 101,
+            "id": 4
+        },
+        {
+            "reward_option_uuid": 101,
+            "id": 5
+        },
+        {
+            "reward_option_uuid": 101,
+            "id": 6
+        },
+        {
+            "reward_option_uuid": 101,
+            "id": 7
+        },
+        {
+            "reward_option_uuid": 101,
+            "id": 8
+        },
+        {
+            "reward_option_uuid": 101,
+            "id": 9
+        },
+        {
+            "reward_option_uuid": 101,
+            "id": 10
+        },
+        {
+            "reward_option_uuid": 101,
+            "id": 11
+        },
+        {
+            "reward_option_uuid": {
+                "uuid": 101,
+                "reward_type": "amazon",
+                "reward_amount": 500,
+                "reward_title": "Amazon card 5$",
+                "status": "pending"
+            },
+            "id": 12
+        },
+        {
+            "reward_option_uuid": {
+                "uuid": 101,
+                "reward_type": "amazon",
+                "reward_amount": 500,
+                "reward_title": "Amazon card 5$",
+                "status": "pending"
+            },
+            "id": 13
+        },
+        {
+            "reward_option_uuid": {
+                "uuid": 101,
+                "reward_type": "amazon",
+                "reward_amount": 500,
+                "reward_title": "Amazon card 5$",
+                "status": "pending"
+            },
+            "id": 14
+        },
+        {
+            "reward_option_uuid": {
+                "uuid": 101,
+                "reward_type": "amazon",
+                "reward_amount": 500,
+                "reward_title": "Amazon card 5$",
+                "status": "pending"
+            },
+            "id": 15
+        },
+        {
+            "reward_option_uuid": {
+                "uuid": 101,
+                "reward_type": "amazon",
+                "reward_amount": 500,
+                "reward_title": "Amazon card 5$",
+                "status": "pending"
+            },
+            "id": 16
+        },
+        {
+            "reward_option_uuid": 101,
+            "id": 17
+        },
+        {
+            "reward_option_uuid": 102,
+            "id": 18
+        },
+        {
+            "reward_option_uuid": 101,
+            "id": 19
+        },
+        {
+            "reward_option_uuid": 101,
+            "id": 20
+        },
+        {
+            "reward_option_uuid": 101,
+            "id": 21
+        },
+        {
+            "reward_option_uuid": 101,
+            "id": 22
         }
     ]
 }
